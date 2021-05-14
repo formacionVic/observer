@@ -1,3 +1,3 @@
  interface Newspaper {
-     fun publish(report:Report):String
+     fun publish(report:Report)
  }
